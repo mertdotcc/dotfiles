@@ -32,6 +32,9 @@ alias -g g="| grep -iF"
 
 # GIT ALIASES
 alias gs="git status"
+alias ga="git add"
+alias gc="git commit -m"
+alias gp="git push"
 
 # KUBERNETES ALIASES
 alias k="kubectl"
