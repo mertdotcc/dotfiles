@@ -9,6 +9,7 @@ brew install kubectx
 brew install helm
 brew install docker
 brew install derailed/k9s/k9s
+brew install jesseduffield/lazygit/lazygit
 
 # development & power tools
 brew install --cask iterm2
