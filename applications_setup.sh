@@ -7,6 +7,7 @@ brew install --cask docker
 brew install --cask finicky
 brew install --cask goland
 brew install --cask google-chrome
+brew install --cask google-cloud-sdk
 brew install --cask grammarly-desktop
 brew install --cask hammerspoon
 brew install --cask intellij-idea
