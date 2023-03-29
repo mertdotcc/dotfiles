@@ -8,7 +8,7 @@ EMAIL_2="gmail.com"
 set -x
 
 # author
-git config --global user.name "Mert Ozturk"
+git config --global user.name "Mert Öztürk"
 git config --global user.email "${EMAIL_1}@${EMAIL_2}"
 
 # ignore 
