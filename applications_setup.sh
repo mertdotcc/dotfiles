@@ -41,7 +41,6 @@ brew install helm
 brew install istioctl
 brew install iter8@0.13
 brew install k9s
-brew install k9s
 brew install kamel
 brew install kn
 brew install kubectx
