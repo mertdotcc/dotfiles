@@ -34,6 +34,7 @@ brew install azure-cli
 brew install difftastic
 brew install dive
 brew install gnu-sed
+brew install gh
 brew install go
 brew install grep
 brew install helm
