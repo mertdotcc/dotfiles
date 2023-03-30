@@ -34,6 +34,7 @@ brew install awscli
 brew install azure-cli
 brew install difftastic
 brew install dive
+brew install docker
 brew install gnu-sed
 brew install gh
 brew install go
