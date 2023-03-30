@@ -51,4 +51,5 @@ brew install kubectx
 brew install kubernetes-cli
 brew install lazygit
 brew install quarkusio/tap/quarkus
+brew install tree
 brew install watch
