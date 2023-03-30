@@ -41,6 +41,7 @@ brew install golangci-lint
 brew install grep
 brew install helm
 brew install istioctl
+brew tap iter8-tools/iter8
 brew install iter8@0.13
 brew install k9s
 brew install kamel
@@ -50,4 +51,3 @@ brew install kubernetes-cli
 brew install lazygit
 brew install quarkusio/tap/quarkus
 brew install watch
-brew tap iter8-tools/iter8
