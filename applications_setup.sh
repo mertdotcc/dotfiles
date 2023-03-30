@@ -37,6 +37,7 @@ brew install dive
 brew install gnu-sed
 brew install gh
 brew install go
+brew install golangci-lint
 brew install grep
 brew install helm
 brew install istioctl
