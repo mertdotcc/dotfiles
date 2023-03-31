@@ -35,8 +35,8 @@ brew install azure-cli
 brew install difftastic
 brew install dive
 brew install docker
-brew install gnu-sed
 brew install gh
+brew install gnu-sed
 brew install go
 brew install golangci-lint
 brew install grep
@@ -50,6 +50,7 @@ brew install kn
 brew install kubectx
 brew install kubernetes-cli
 brew install lazygit
+brew install minikube
 brew install quarkusio/tap/quarkus
 brew install tree
 brew install watch
