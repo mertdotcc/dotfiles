@@ -8,6 +8,7 @@ brew install --cask finicky
 brew install --cask goland
 brew install --cask google-chrome
 brew install --cask google-cloud-sdk
+brew install --cask graalvm/tap/graalvm-ce-java11
 brew install --cask grammarly-desktop
 brew install --cask hammerspoon
 brew install --cask intellij-idea
